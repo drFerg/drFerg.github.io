@@ -160,3 +160,9 @@ body {
 .lead{
   margin-bottom: 50px;
 }
+
+/*Academia page*/
+
+#publicationList #pubBody{
+  text-align: left;
+}
