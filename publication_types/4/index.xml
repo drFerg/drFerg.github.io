@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on </title>
+    <link>https://fergul.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://fergul.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrating a Secure Intranet of Things into a Smart Home Router</title>
+      <link>https://fergul.github.io/publication/5thyear/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/publication/5thyear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A lightweight protocol for constrained devices for use in the Internet of Things paradigm</title>
+      <link>https://fergul.github.io/publication/4thyear/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/publication/4thyear/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

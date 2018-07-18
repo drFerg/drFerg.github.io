@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Fergus Leahy">
+    
+
+    <title>A little bit about Fergus</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="./css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="./css/cover.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/github.css">
+
+</script>
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">A little bit about Fergus Leahy</h3>
+              <ul class="nav masthead-nav">
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./projects.html">Projects</a></li>
+                <li><a href="#">Academia</a></li>
+                <li class="active"><a href="./github.html">Github</a></li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="inner cover">
+            <div class="row marketing">
+              <div class="col-md-10">
+                <div id="github"></div>
+                
+            </div>
+          </div>
+        </div>
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Layout inspired by <a href="https://twitter.com/mdo" target="_blank">@mdo's</a> cover layout.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="./js/jquery-1.10.1.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/jquery.github.min.js"></script>
+    <script type="text/javascript">
+	$(document).ready(function(){
+		$("#github").github({
+			user: "fergul",
+			show_extended_info: true,
+			show_follows: false,
+			width: "400px",
+			show_repos: 8,
+			oldest_first: false
+		});
+	});
+</script>
+
+  </body>
+</html>
