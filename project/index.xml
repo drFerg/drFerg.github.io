@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on </title>
+    <title>Projects on About Fergus</title>
     <link>https://fergul.github.io/project/</link>
-    <description>Recent content in Projects on </description>
+    <description>Recent content in Projects on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -25,6 +25,16 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
     </item>
     
     <item>
+      <title>Fujitsu Teddy Bear Robot</title>
+      <link>https://fergul.github.io/project/fujitsubear/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/fujitsubear/</guid>
+      <description>During my internship in Fujitsu Laboratories Japan, I worked on their human-centric robotics project involving a bear robot. The bear was designed and built to support young and elderly care, providing eduction and play for children, and human like care-support for Japan&amp;rsquo;s aging population.
+My project had me learn the bear&amp;rsquo;s hardware and software architecture, iteratively develop a user-friendly application controlling the bear, and carrying out and evaluating a set of psychology experiments to understand human perception of the bear.</description>
+    </item>
+    
+    <item>
       <title>Mini Web Server in C</title>
       <link>https://fergul.github.io/project/webserver/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
@@ -43,12 +53,24 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
     </item>
     
     <item>
+      <title>The TwitterVerse</title>
+      <link>https://fergul.github.io/project/twitterverse/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/twitterverse/</guid>
+      <description>Experimented with creating an intuitive abstract visualisation for displaying tweets about a subject using a sun + satellite metaphor. Built as a weekend experiment, using Java and the Twitter API.
+Displays a user or hashtag as suns and tweets pop up as moons in real-time, orbiting their topic. Provides users with instant and intuitive visual feedback about how popular a topic is.
+  </description>
+    </item>
+    
+    <item>
       <title>Two Rooms and a Boom Custom Card Game</title>
       <link>https://fergul.github.io/project/2r1b/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/2r1b/</guid>
-      <description></description>
+      <description>A custom print&amp;rsquo;n&amp;rsquo;play (PnP) version of the popular social deduction party game, Two Rooms and A Boom. Part of a design experiment to create minimalist cards designed using the tikz library for LaTeX.
+     </description>
     </item>
     
     <item>
@@ -57,7 +79,8 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/wunderground/</guid>
-      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).</description>
+      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
+The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
     </item>
     
     <item>

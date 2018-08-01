@@ -104,6 +104,15 @@
     
     <url>
     
+      <loc>https://fergul.github.io/project/fujitsubear/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/project/webserver/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
@@ -114,6 +123,15 @@
     <url>
     
       <loc>https://fergul.github.io/project/thaiwest/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/project/twitterverse/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -176,16 +194,6 @@
     
     <url>
     
-      <loc>https://fergul.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/publication_types/1/</loc>
       <lastmod>2017-10-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -216,6 +224,26 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/api/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/</loc>
+      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/ambient/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -236,6 +264,16 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/bear/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/c/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -247,6 +285,16 @@
     <url>
     
       <loc>https://fergul.github.io/tags/c/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/card-game/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -275,7 +323,37 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/design/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/food/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/fujitsu/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/hci/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -295,7 +373,27 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/japan/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/java/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/latex/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -345,6 +443,16 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/robot/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/smart-city/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -385,6 +493,16 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/tikz/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/travel/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -395,7 +513,27 @@
     
     <url>
     
+      <loc>https://fergul.github.io/tags/twitter/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/tags/ui/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/visualisation/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>

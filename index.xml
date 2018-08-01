@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>About Fergus on About Fergus</title>
     <link>https://fergul.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content in About Fergus on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -83,7 +83,53 @@
 
 &lt;p&gt;Written in Python utilising the MetOffice and TfL open data APIs to grab weather and transport information, respectively.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34;&gt;I&amp;rsquo;m a link&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Dynamic Ambient Transport Display &#34; href=&#34;https://fergul.github.io/img/catchThatBusTrainExample.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/catchThatBusTrainExample.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fujitsu Teddy Bear Robot</title>
+      <link>https://fergul.github.io/project/fujitsubear/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/fujitsubear/</guid>
+      <description>&lt;p&gt;During my internship in Fujitsu Laboratories Japan, I worked on their human-centric robotics project involving a bear robot. The bear was designed and built to support young and elderly care, providing eduction and play for children, and human like care-support for Japan&amp;rsquo;s aging population.&lt;/p&gt;
+
+&lt;p&gt;My project had me learn the bear&amp;rsquo;s hardware and software architecture, iteratively develop a user-friendly application controlling the bear, and carrying out and evaluating a set of psychology experiments to understand human perception of the bear.&lt;/p&gt;
+
+&lt;p&gt;I was then challenged to develop a new sensor hardware interface for the bear to automatically detect people from a distance, increasing the bear&amp;rsquo;s awareness of its environment. The project was a complete hardware to software solution, involving building the new hardware circuits, before then integrating them into the existing software architecture.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;The Fujitsu Robot Teddy Bear&#34; href=&#34;https://fergul.github.io/img/fujitsuBear.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/fujitsuBear.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
 </description>
     </item>
     
@@ -107,12 +153,92 @@
     </item>
     
     <item>
+      <title>The TwitterVerse</title>
+      <link>https://fergul.github.io/project/twitterverse/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/twitterverse/</guid>
+      <description>&lt;p&gt;Experimented with creating an intuitive abstract visualisation for displaying tweets about a subject using a sun + satellite metaphor. Built as a weekend experiment, using Java and the Twitter API.&lt;/p&gt;
+
+&lt;p&gt;Displays a user or hashtag as suns and tweets pop up as moons in real-time, orbiting their topic. Provides users with instant and intuitive visual feedback about how popular a topic is.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;The TwitterVerse&#34; href=&#34;https://fergul.github.io/img/twitterVerse.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/twitterVerse.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Two Rooms and a Boom Custom Card Game</title>
       <link>https://fergul.github.io/project/2r1b/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/2r1b/</guid>
-      <description></description>
+      <description>&lt;p&gt;A custom print&amp;rsquo;n&amp;rsquo;play (PnP) version of the popular social deduction party game, Two Rooms and A Boom. Part of a design experiment to create minimalist cards designed using the tikz library for LaTeX.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Purple Team Amnesiac&#34; href=&#34;https://fergul.github.io/img/2r1bGallery1.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/2r1bGallery1.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Grey Team Private Detective&#34; href=&#34;https://fergul.github.io/img/2r1bGallery2.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/2r1bGallery2.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Blue Team Spy&#34; href=&#34;https://fergul.github.io/img/2r1bGallery3.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/2r1bGallery3.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;Red Team Negotiator&#34; href=&#34;https://fergul.github.io/img/2r1bGallery4.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/2r1bGallery4.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -123,6 +249,36 @@
       <guid>https://fergul.github.io/project/wunderground/</guid>
       <description>&lt;p&gt;An android mobile app for alerting sleepy passengers of their impending stop.
 Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).&lt;/p&gt;
+
+&lt;p&gt;The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise. Currently prototyping using additional data and sensor fusion to improve station prediction accuracy using average time-between-station times and motion sensors to detect when the trains stops.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-2&#34; data-caption=&#34;Wunderground Home activity&#34; href=&#34;https://fergul.github.io/img/wundergroundHome.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/wundergroundHome.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-2&#34; data-caption=&#34;Wunderground Alarm activity&#34; href=&#34;https://fergul.github.io/img/wundergroundAlarm.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;https://fergul.github.io/img/wundergroundAlarm.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
 </description>
     </item>
     
@@ -321,24 +477,6 @@ git submodule update --init --recursive
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Integrating a Secure Intranet of Things into a Smart Home Router</title>
-      <link>https://fergul.github.io/publication/5thyear/</link>
-      <pubDate>Mon, 01 Sep 2014 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/publication/5thyear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A lightweight protocol for constrained devices for use in the Internet of Things paradigm</title>
-      <link>https://fergul.github.io/publication/4thyear/</link>
-      <pubDate>Sun, 01 Sep 2013 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/publication/4thyear/</guid>
-      <description></description>
     </item>
     
   </channel>

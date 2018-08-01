@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systems on </title>
+    <title>Systems on About Fergus</title>
     <link>https://fergul.github.io/tags/systems/</link>
-    <description>Recent content in Systems on </description>
+    <description>Recent content in Systems on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -22,21 +22,13 @@
     </item>
     
     <item>
-      <title>Two Rooms and a Boom Custom Card Game</title>
-      <link>https://fergul.github.io/project/2r1b/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/2r1b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wunderground</title>
       <link>https://fergul.github.io/project/wunderground/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/wunderground/</guid>
-      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).</description>
+      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
+The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
     </item>
     
     <item>

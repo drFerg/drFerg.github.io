@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
+    <title>Tags on About Fergus</title>
     <link>https://fergul.github.io/tags/</link>
-    <description>Recent content in Tags on </description>
+    <description>Recent content in Tags on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
@@ -19,6 +19,15 @@
       
       <guid>https://fergul.github.io/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://fergul.github.io/tags/api/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/api/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -40,6 +49,15 @@
     </item>
     
     <item>
+      <title>Bear</title>
+      <link>https://fergul.github.io/tags/bear/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/bear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>C</title>
       <link>https://fergul.github.io/tags/c/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
@@ -54,6 +72,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Card Game</title>
+      <link>https://fergul.github.io/tags/card-game/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/card-game/</guid>
       <description></description>
     </item>
     
@@ -67,11 +94,38 @@
     </item>
     
     <item>
+      <title>Design</title>
+      <link>https://fergul.github.io/tags/design/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food</title>
       <link>https://fergul.github.io/tags/food/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fujitsu</title>
+      <link>https://fergul.github.io/tags/fujitsu/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/fujitsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCI</title>
+      <link>https://fergul.github.io/tags/hci/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/hci/</guid>
       <description></description>
     </item>
     
@@ -85,11 +139,29 @@
     </item>
     
     <item>
+      <title>Japan</title>
+      <link>https://fergul.github.io/tags/japan/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java</title>
       <link>https://fergul.github.io/tags/java/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://fergul.github.io/tags/latex/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/latex/</guid>
       <description></description>
     </item>
     
@@ -108,6 +180,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/tags/rpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robot</title>
+      <link>https://fergul.github.io/tags/robot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/robot/</guid>
       <description></description>
     </item>
     
@@ -139,6 +220,15 @@
     </item>
     
     <item>
+      <title>Tikz</title>
+      <link>https://fergul.github.io/tags/tikz/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/tikz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Travel</title>
       <link>https://fergul.github.io/tags/travel/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
@@ -148,11 +238,29 @@
     </item>
     
     <item>
+      <title>Twitter</title>
+      <link>https://fergul.github.io/tags/twitter/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>UI</title>
       <link>https://fergul.github.io/tags/ui/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/tags/ui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualisation</title>
+      <link>https://fergul.github.io/tags/visualisation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/tags/visualisation/</guid>
       <description></description>
     </item>
     
