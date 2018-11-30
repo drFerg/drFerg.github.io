@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web on About Fergus</title>
+    <title>web on About Fergus</title>
     <link>https://fergul.github.io/tags/web/</link>
-    <description>Recent content in Web on About Fergus</description>
+    <description>Recent content in web on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fergul.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>File Warp</title>
+      <link>https://fergul.github.io/project/filewarp/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fergul.github.io/project/filewarp/</guid>
+      <description>A sound-based local file-drop utility for sharing files between devices within earshot of one another. Uses \textit{quiet.js} to discover and hand-shake between clients before transferring files over \textit{socket.js} and a shared network connection. Built on the Electron web-based platform, utilising a JavaScript front- and back-end and Material design.
+  </description>
+    </item>
+    
+    <item>
+      <title>Thai West Cafe Digital Menu</title>
+      <link>https://fergul.github.io/project/thaiwest/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/thaiwest/</guid>
+      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
+    </item>
+    
+    <item>
+      <title>Wunderground</title>
+      <link>https://fergul.github.io/project/wunderground/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/wunderground/</guid>
+      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
+The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
+    </item>
     
     <item>
       <title>Catch That Bus/Train</title>
@@ -34,15 +63,6 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
     </item>
     
     <item>
-      <title>Thai West Cafe Digital Menu</title>
-      <link>https://fergul.github.io/project/thaiwest/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/thaiwest/</guid>
-      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
-    </item>
-    
-    <item>
       <title>The TwitterVerse</title>
       <link>https://fergul.github.io/project/twitterverse/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
@@ -51,16 +71,6 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
       <description>Experimented with creating an intuitive abstract visualisation for displaying tweets about a subject using a sun + satellite metaphor. Built as a weekend experiment, using Java and the Twitter API.
 Displays a user or hashtag as suns and tweets pop up as moons in real-time, orbiting their topic. Provides users with instant and intuitive visual feedback about how popular a topic is.
   </description>
-    </item>
-    
-    <item>
-      <title>Wunderground</title>
-      <link>https://fergul.github.io/project/wunderground/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/wunderground/</guid>
-      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
-The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
     </item>
     
   </channel>

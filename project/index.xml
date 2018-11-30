@@ -7,10 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fergul.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>One Night Werewolf Custom Card Game</title>
+      <link>https://fergul.github.io/project/onenightwolf/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fergul.github.io/project/onenightwolf/</guid>
+      <description>A custom print&amp;rsquo;n&amp;rsquo;play (PnP) version of the popular social deduction game, One Night Werewolf. Part of a design series experiment to create minimalist cards designed using the tikz library for LaTeX.
+     </description>
+    </item>
+    
+    <item>
+      <title>File Warp</title>
+      <link>https://fergul.github.io/project/filewarp/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fergul.github.io/project/filewarp/</guid>
+      <description>A sound-based local file-drop utility for sharing files between devices within earshot of one another. Uses \textit{quiet.js} to discover and hand-shake between clients before transferring files over \textit{socket.js} and a shared network connection. Built on the Electron web-based platform, utilising a JavaScript front- and back-end and Material design.
+  </description>
+    </item>
+    
+    <item>
+      <title>Thai West Cafe Digital Menu</title>
+      <link>https://fergul.github.io/project/thaiwest/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/thaiwest/</guid>
+      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
+    </item>
+    
+    <item>
+      <title>Wunderground</title>
+      <link>https://fergul.github.io/project/wunderground/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/wunderground/</guid>
+      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
+The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
+    </item>
     
     <item>
       <title>Catch That Bus/Train</title>
@@ -25,31 +64,12 @@ Written in Python utilising the MetOffice and TfL open data APIs to grab weather
     </item>
     
     <item>
-      <title>Fujitsu Teddy Bear Robot</title>
-      <link>https://fergul.github.io/project/fujitsubear/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/fujitsubear/</guid>
-      <description>During my internship in Fujitsu Laboratories Japan, I worked on their human-centric robotics project involving a bear robot. The bear was designed and built to support young and elderly care, providing eduction and play for children, and human like care-support for Japan&amp;rsquo;s aging population.
-My project had me learn the bear&amp;rsquo;s hardware and software architecture, iteratively develop a user-friendly application controlling the bear, and carrying out and evaluating a set of psychology experiments to understand human perception of the bear.</description>
-    </item>
-    
-    <item>
       <title>Mini Web Server in C</title>
       <link>https://fergul.github.io/project/webserver/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/webserver/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Thai West Cafe Digital Menu</title>
-      <link>https://fergul.github.io/project/thaiwest/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/thaiwest/</guid>
-      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
     </item>
     
     <item>
@@ -74,22 +94,22 @@ Displays a user or hashtag as suns and tweets pop up as moons in real-time, orbi
     </item>
     
     <item>
-      <title>Wunderground</title>
-      <link>https://fergul.github.io/project/wunderground/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/wunderground/</guid>
-      <description>An android mobile app for alerting sleepy passengers of their impending stop. Built after I grew tired of falling asleep and missing my stop on the way home from a long day (excuse the pun :D).
-The app monitors WiFi access-points available on London underground station platforms, recording a user&amp;rsquo;s progress towards their target location, i.e., home. As they approach their station the phone alerts the user in the hope they will wake up and realise.</description>
-    </item>
-    
-    <item>
       <title>py-SRPC</title>
       <link>https://fergul.github.io/project/pysrpc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://fergul.github.io/project/pysrpc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Fujitsu Teddy Bear Robot</title>
+      <link>https://fergul.github.io/project/fujitsubear/</link>
+      <pubDate>Wed, 27 Jun 2012 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/fujitsubear/</guid>
+      <description>During my internship in Fujitsu Laboratories Japan, I worked on their human-centric robotics project involving a bear robot. The bear was designed and built to support young and elderly care, providing eduction and play for children, and human like care-support for Japan&amp;rsquo;s aging population.
+My project had me learn the bear&amp;rsquo;s hardware and software architecture, iteratively develop a user-friendly application controlling the bear, and carrying out and evaluating a set of psychology experiments to understand human perception of the bear.</description>
     </item>
     
   </channel>

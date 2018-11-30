@@ -5,8 +5,44 @@
     
     <url>
     
+      <loc>https://fergul.github.io/project/onenightwolf/</loc>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/project/filewarp/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://fergul.github.io/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/project/thaiwest/</loc>
+      <lastmod>2018-03-27T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/project/wunderground/</loc>
+      <lastmod>2017-10-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -104,25 +140,7 @@
     
     <url>
     
-      <loc>https://fergul.github.io/project/fujitsubear/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/project/webserver/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/project/thaiwest/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -141,15 +159,6 @@
     <url>
     
       <loc>https://fergul.github.io/project/2r1b/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/project/wunderground/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
     </url>
     
@@ -187,6 +196,15 @@
     
       <loc>https://fergul.github.io/publication/4thyear/</loc>
       <lastmod>2013-09-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/project/fujitsubear/</loc>
+      <lastmod>2012-06-27T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -244,46 +262,6 @@
     
     <url>
     
-      <loc>https://fergul.github.io/tags/ambient/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/android/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/bear/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/c/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/tags/c/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -295,7 +273,17 @@
     <url>
     
       <loc>https://fergul.github.io/tags/card-game/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/card-game-series/</loc>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -313,38 +301,8 @@
     
     <url>
     
-      <loc>https://fergul.github.io/tags/concurrency/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/tags/design/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/food/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/fujitsu/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -354,37 +312,7 @@
     <url>
     
       <loc>https://fergul.github.io/tags/hci/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/human-centric/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/japan/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/java/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -394,7 +322,7 @@
     <url>
     
       <loc>https://fergul.github.io/tags/latex/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -404,7 +332,7 @@
     <url>
     
       <loc>https://fergul.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -423,57 +351,7 @@
     
     <url>
     
-      <loc>https://fergul.github.io/tags/python/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/tags/rpc/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/robot/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/smart-city/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/smart-home/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://fergul.github.io/tags/systems/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
@@ -493,8 +371,208 @@
     
     <url>
     
-      <loc>https://fergul.github.io/tags/tikz/</loc>
+      <loc>https://fergul.github.io/tags/ui/</loc>
+      <lastmod>2018-03-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/ambient/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/android/</loc>
+      <lastmod>2017-10-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/bear/</loc>
+      <lastmod>2012-06-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/c/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/concurrency/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/electron/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/food/</loc>
+      <lastmod>2018-03-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/fujitsu/</loc>
+      <lastmod>2012-06-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/human-centric/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/japan/</loc>
+      <lastmod>2012-06-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/java/</loc>
+      <lastmod>2017-10-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/javascript/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/python/</loc>
+      <lastmod>2018-03-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/robot/</loc>
+      <lastmod>2012-06-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/smart-city/</loc>
+      <lastmod>2017-10-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/smart-home/</loc>
+      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/socket/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/sound/</loc>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/systems/</loc>
+      <lastmod>2017-10-27T00:00:00+01:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://fergul.github.io/tags/tikz/</loc>
+      <lastmod>2018-11-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -523,16 +601,6 @@
     
     <url>
     
-      <loc>https://fergul.github.io/tags/ui/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://fergul.github.io/tags/visualisation/</loc>
       <lastmod>2016-04-27T00:00:00+01:00</lastmod>
       <priority>0</priority>
@@ -544,7 +612,7 @@
     <url>
     
       <loc>https://fergul.github.io/tags/web/</loc>
-      <lastmod>2016-04-27T00:00:00+01:00</lastmod>
+      <lastmod>2018-11-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

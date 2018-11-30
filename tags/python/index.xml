@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on About Fergus</title>
+    <title>python on About Fergus</title>
     <link>https://fergul.github.io/tags/python/</link>
-    <description>Recent content in Python on About Fergus</description>
+    <description>Recent content in python on About Fergus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://fergul.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Thai West Cafe Digital Menu</title>
+      <link>https://fergul.github.io/project/thaiwest/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://fergul.github.io/project/thaiwest/</guid>
+      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
+    </item>
     
     <item>
       <title>Catch That Bus/Train</title>
@@ -22,15 +31,6 @@
 A simple ambient display to show bus and train times for a local stop, with weather info to let you know if you need an jacket on the way out.
 Uses a kindle display to non-intrusively show info and looks great on its non-backlit e-paper display.
 Written in Python utilising the MetOffice and TfL open data APIs to grab weather and transport information, respectively.</description>
-    </item>
-    
-    <item>
-      <title>Thai West Cafe Digital Menu</title>
-      <link>https://fergul.github.io/project/thaiwest/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://fergul.github.io/project/thaiwest/</guid>
-      <description>Designed and built a custom digital restaurant menu for a Thai restaurant based in Picadilly Circus. The menu is built using a Raspberry Pi and running a web-based customisable menu written using Django (Python). The menu can be switched between lunch and dinner menus using a button on the Pi and enables staff to quickly update the menu without HTML or design skills. Here is it deployed</description>
     </item>
     
     <item>
